@@ -65,7 +65,9 @@
 * "#" in (python) code means that you’re explaining something, and won’t actually be coded into your work as part of the program (just something for the next person to use your code to have?)
 * Now that I’ve made that “pocket” for my wget work (I guess it’s technically a file folder, but in my mind it’s a pocket where wget works), I have to do everything related to wget in that specific spot or it doesn’t work. I can’t even do it in a folder of within that pocket. For example, when I tried to do the second half of the wget exercise (when we worked with the 14th Canadian General Hospital war diaries), the wget command didn’t work until I renamed my file “url2.txt” (so that I wouldn’t have 2 “url.txt” files in the same folder) and moved it out of the war-diaries directory into my wget pocket
   + For example: 
-![The same command, with the files inside/outside the 'wget pocket'](Same command, files out of the wget pocket vs inside of it.PNG)
+
+![example](Same command, files out of the wget pocket vs inside of it.PNG)
+  
   + Note: Next time, I need to move all the files I’ve already collected out of the wget pocket (the two sets I collected this time are now jumbled together, so I can’t immediately tell which is which)
 * On APIs
   + An API will have documentation explaining what or how to “make calls” to it to get the information you want
