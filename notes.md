@@ -73,6 +73,7 @@
   + An API will have documentation explaining what or how to “make calls” to it to get the information you want
   + Each API has its own idiosyncracies, so use the documentation to determine how to form your request
 * I appreciated this note: Insert image here
+![Hypothesis annotation telling our class to read all the instructions first](https://github.com/sidxi/week-two/blob/master/Week%202%20Funny%20Annotation.png)
 * You can change your working directory in R whenever you like, it’s not set in stone
 * Note: I accidentally did my first bit of R coding in the console and not in a new script, which meant I couldn’t save it. So I had to c/p it into my text editor and save it as an R file from there.
 * I didn’t have time to do the bonus this week, which I’m sad about because I love working with audio. Hopefully, I will have some time to do it in the future!
