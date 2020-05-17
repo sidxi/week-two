@@ -65,14 +65,12 @@
 * "#" in (python) code means that you’re explaining something, and won’t actually be coded into your work as part of the program (just something for the next person to use your code to have?)
 * Now that I’ve made that “pocket” for my wget work (I guess it’s technically a file folder, but in my mind it’s a pocket where wget works), I have to do everything related to wget in that specific spot or it doesn’t work. I can’t even do it in a folder of within that pocket. For example, when I tried to do the second half of the wget exercise (when we worked with the 14th Canadian General Hospital war diaries), the wget command didn’t work until I renamed my file “url2.txt” (so that I wouldn’t have 2 “url.txt” files in the same folder) and moved it out of the war-diaries directory into my wget pocket
   + For example: 
-
-![The same command, with the file outside, then inside the wget pocket](https://github.com/sidxi/week-two/blob/master/Same%20command%2C%20files%20out%20of%20the%20wget%20pocket%20vs%20inside%20of%20it.PNG)
-  
+![The same command, with the file outside, then inside the wget pocket](https://github.com/sidxi/week-two/blob/master/Same%20command%2C%20files%20out%20of%20the%20wget%20pocket%20vs%20inside%20of%20it.PNG) 
   + Note: Next time, I need to move all the files I’ve already collected out of the wget pocket (the two sets I collected this time are now jumbled together, so I can’t immediately tell which is which)
 * On APIs
   + An API will have documentation explaining what or how to “make calls” to it to get the information you want
   + Each API has its own idiosyncracies, so use the documentation to determine how to form your request
-* I appreciated this note: Insert image here
+* I appreciated this note:
 ![Hypothesis annotation telling our class to read all the instructions first](https://github.com/sidxi/week-two/blob/master/Week%202%20Funny%20Annotation.png)
 * You can change your working directory in R whenever you like, it’s not set in stone
 * Note: I accidentally did my first bit of R coding in the console and not in a new script, which meant I couldn’t save it. So I had to c/p it into my text editor and save it as an R file from there.
