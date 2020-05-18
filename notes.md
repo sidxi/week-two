@@ -53,7 +53,7 @@
 * Week 2 Discord
 * My partner (shoutout to their patience with me)
 
-# Thoughts and other notes
+# Thoughts and other notes:
 * So far, this week is overwhelming so I’m going to need to take some deep breaths
 * As a windows user: command prompt = anaconda powershell (aka “$” – but you **DON’T** type this in)
 * Command vs Running Program
